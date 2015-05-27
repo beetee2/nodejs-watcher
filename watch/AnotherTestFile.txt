@@ -1,0 +1,1 @@
+just some random text to test the watcher. this file should get moved into the done directory and renamed to all lowercase letters.
